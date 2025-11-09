@@ -1,10 +1,14 @@
 Another WebUI for Higgs Audio V2
-I use this fork of the project/quantized model: https://github.com/Nyarlth/higgs-audio_quantized
+
+I use this fork of the project/quantized model:
+
+https://github.com/Nyarlth/higgs-audio_quantized
 
 Put voice samples in voice_prompts/
 
 
 Disclaimer:
+
 This is mostly vibe-coded trash, but works well enough for my purposes. If you saw the spaghetti I had before asking LLMs to clean it up, well..
 
 Notes:
