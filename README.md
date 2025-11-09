@@ -19,6 +19,8 @@ The incorrect temp filenames are shown in the generation history.
 
 The generation queue does not refresh in the browser, but the refresh button does work if you have a long queue.
 
+The UI elements are all over the place.
+
 I will, probably, never fix any of these.
 
 I tend to use this for voice cloning, and it works very well for what I need.
